@@ -7,36 +7,29 @@
 
 ## Languages
 
-<img src="img/c.svg" />
-<img src="img/c++.svg" />
-<img src="img/python.svg" />          
-<img src="img/html.svg" />          
-<img src="img/css.svg" />          
-<img src="img/js.svg" />
+<img height="56px" src="img/c.svg" />&nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/c++.svg" />&nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/python.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/html.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/css.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/js.svg" /> &nbsp;&nbsp;&nbsp;
 
 ## Tools that I generally use
 
-<img src="img/anaconda.svg" />
-<img src="img/qiskit.svg" />
-<img src="img/tailwind.svg" />
-<img src="img/svelte.svg" />
-<img src="img/vue.svg" />
-<img src="img/express.svg" />
-<img src="img/node.svg" />
-<img src="img/npm.svg" />
-<img src="img/bash.svg" />
-<img src="img/docker.svg" />
-<img src="img/latex.svg" />
+<img height="56px" src="img/anaconda.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/qiskit.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/tailwind.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/svelte.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/vue.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/express.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/node.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/npm.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/bash.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/docker.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/latex.svg" /> &nbsp;&nbsp;&nbsp;
 
 ## Contact me
 
-<a href="https://www.linkedin.com/in/vedabahu/" target="_blank"><img src="img/linkedin.svg"/></a>
-<a href="https://github.com/vedabahu/" target="_blank"><img src="img/github.svg"/></a>
-<a href="mailto:23bcs112@iiitdwd.ac.in" target="_blank"><img src="img/gmail.svg"/></a>
-
-<style>
-    img, svg {
-        height: 4rem;
-        margin: 0.4rem 1rem 0rem 0rem;
-    }
-</style>
+<a href="https://www.linkedin.com/in/vedabahu/" target="_blank"><img height="56px" src="img/linkedin.svg"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/vedabahu/" target="_blank"><img height="56px" src="img/github.svg"/></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:23bcs112@iiitdwd.ac.in" target="_blank"><img height="56px" src="img/gmail.svg"/></a> &nbsp;&nbsp;&nbsp;
