@@ -16,16 +16,17 @@
 
 ## Tools that I generally use
 
-<img height="56px" src="img/anaconda.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/qiskit.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/tailwind.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/svelte.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/vue.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/express.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/node.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/npm.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/bash.svg" /> &nbsp;&nbsp;
-<img height="56px" src="img/docker.svg" /> &nbsp;&nbsp;
+<img height="56px" src="img/anaconda.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/qiskit.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/tailwind.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/svelte.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/vue.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/express.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/node.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/npm.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/bash.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="56px" src="img/docker.svg" /> &nbsp;&nbsp;&nbsp;
+
 <img height="40px" src="img/latex.svg" /> &nbsp;&nbsp;&nbsp;
 
 ## Contact me
