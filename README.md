@@ -32,5 +32,5 @@
 ## Contact me
 
 <a href="https://www.linkedin.com/in/vedabahu/" target="_blank"><img height="56px" src="img/linkedin.svg"/></a> &nbsp;&nbsp;&nbsp;
-<a href="https://github.com/vedabahu/" target="_blank"><img height="56px" src="img/github.svg"/></a> &nbsp;&nbsp;&nbsp;
+<a href="https://github.com/vedabahu/" target="_blank"><img height="56px" src="img/github2.svg"/></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:23bcs112@iiitdwd.ac.in" target="_blank"><img height="56px" src="img/gmail.svg"/></a> &nbsp;&nbsp;&nbsp;
