@@ -26,7 +26,7 @@
 <img height="56px" src="img/npm.svg" /> &nbsp;&nbsp;&nbsp;
 <img height="56px" src="img/bash.svg" /> &nbsp;&nbsp;&nbsp;
 <img height="56px" src="img/docker.svg" /> &nbsp;&nbsp;&nbsp;
-<img height="56px" src="img/latex.svg" /> &nbsp;&nbsp;&nbsp;
+<img height="40px" src="img/latex.svg" /> &nbsp;&nbsp;&nbsp;
 
 ## Contact me
 
